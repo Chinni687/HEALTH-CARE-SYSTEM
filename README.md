@@ -86,4 +86,5 @@ PharmEasy is a responsive multi-page frontend website built using HTML, CSS, and
 
 ## 📌 Author
 
-Made with 💻 by Sneha Vishwakarma  
+
+Made with 💻 by Shaik Rafiya
